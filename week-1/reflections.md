@@ -12,4 +12,26 @@ A shell is a user interface that connects the user to an operating system. A bas
 6. page through a file 
 7. remove a directory
 8. remove
-help 
+9. help 
+
+#1.4 
+To create a new Repo:
+Type in www.github.com/[ ENTER: YOUR USERNAME ] to access your github account. 
+At the top right corner of your profile, press the + sign and click “New repository"
+This will create a new folder/repository for you. Name it, add a license and click the big green button. 
+You did it! 
+To fork a repository:
+Access the repository on GitHub that you would like to fork. 
+Click the fork button on the upper bar. 
+Then select the repository that you would like to fork this file into. 
+You did it!
+To clone a repository:
+Access the repository that you would like to clone on GitHub. 
+Select the link in the side box titled HTTPS://. Copy it to your clipboard.
+Open a new window in your terminal.
+Type “pwd" to make sure you are in the correct user on your computer.
+Type "git clone” and follow with pasting the link that is in your clipboard that you want to clone. 
+After the terminal clones the new repository, type, “ls” to access the files in this new repository! They are all there, hopefully. 
+If you want to access more folders inside this new repository type “cd” following with the inner folder’s name. 
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+Setting up Git Hub was okay but it confused me a lot trying to understand it’s purpose and all of the different files and why they are important. Learning how to create a new one, how to fork and how to clone was really helpful because I now understand the levels of repositories and how you can take them from the internet and put them into your computer. 
