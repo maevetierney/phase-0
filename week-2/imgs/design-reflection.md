@@ -1,13 +1,13 @@
 ![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/site-map.png "My Site Map")
 
 #What are the 6 Phases of Web Design?
-- The six phases of web design are as follows:
-- 1. Information Gathering
-- 2. Planning
-- 3. Design
-- 4. Development
-- 5. Testing and Delivery
-- 6. Maintenance
+The six phases of web design are as follows:
+1.Information Gathering
+2.Planning
+3.Design
+4.Development
+5.Testing and Delivery
+6.Maintenance
 
 #What is your site's primary goal or purpose?
 People who come to my site will be looking to find content about me perhaps because they are trying to hire me for a job. The site will be a way that people in tech can see that I know how to create a user friendly website that also conveys information about me and my work to visitors. My site's purpose is to get me hired and noticed.
