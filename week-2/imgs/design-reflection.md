@@ -1,5 +1,5 @@
 
-![Alt text](/Users/MaeveTierney/phase-0/week-2/imgssite-map.png "My Site Map")
+![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/site-map.png "My Site Map")
 
 
 #What are the 6 Phases of Web Design?
