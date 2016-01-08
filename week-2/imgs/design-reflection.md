@@ -1,4 +1,4 @@
-![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/site-map.png "My Site Map")
+![Alt text](MacintoshHD/Users/MaeveTierney/phase-0/week-2/imgs/site-map.png "My Site Map")
 
 #What are the 6 Phases of Web Design?
 The six phases of web design are as follows:
