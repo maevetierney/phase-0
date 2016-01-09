@@ -1,6 +1,6 @@
-![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/wireframe-index.png "Wireframe Index Home Page")
+![Alt text](MacintoshHD/Users/MaeveTierney/phase-0/week-2/imgs/wireframe-index.png "Wireframe Index Home Page")
 
-![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/wireframe-blog-index.png "Wireframe of Blog Index")
+![Alt text](MacintoshHD/Users/MaeveTierney/phase-0/week-2/imgs/wireframe-blog-index.png "Wireframe of Blog Index")
 
 #What is a wireframe?
 A wireframe is like the skeletal mock-up of the way you would like a system to look in terms of design. This means that it is just a group of images, no HTML or CSS or code components.
