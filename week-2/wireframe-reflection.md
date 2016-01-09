@@ -1,5 +1,7 @@
+#Home Page Wireframe
 ![Alt text](wireframeindex.png "Wireframe Index Home Page")
 
+#Blog Page Wireframe
 ![Alt text](wireframe-blog-index.png "Wireframe of Blog Index Page")
 
 #What is a wireframe?
