@@ -1,7 +1,6 @@
 
 ![Alt text](/week-2/imgs/wireframe-index.png "Wireframe Index Home Page")
 
-
 ![Alt text](/week-2/imgs/wireframe-blog-index.png "Wireframe of Blog Index Page")
 
 #What is a wireframe?
