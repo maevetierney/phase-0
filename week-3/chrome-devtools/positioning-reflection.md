@@ -1,12 +1,12 @@
-#1. ![Alt text](ChangingColors.png "Changing Colors")
-#2. ![Alt text](Column.png "Column")
-#3. ![Alt text](Row.png "Row")
-#4. ![Alt text](MakeEquidistant.png "Make Equidistant")
-#5. ![Alt text](Squares.png "Squares")
-#6. ![Alt text](Footer.png "Footer")
-#7. ![Alt text](Header.png "Header")
-#8. ![Alt text](Sidebar.png "Sidebar")
-#9. ![Alt text](GetCreative.png "Get Creative")
+![Alt text](imgs/ChangingColors.png "Changing Colors")
+![Alt text](imgs/Column.png "Column")
+![Alt text](imgs/Row.png "Row")
+![Alt text](imgs/MakeEquidistant.png "Make Equidistant")
+![Alt text](imgs/Squares.png "Squares")
+![Alt text](imgs/Footer.png "Footer")
+![Alt text](imgs/Header.png "Header")
+![Alt text](imgs/Sidebar.png "Sidebar")
+![Alt text](imgs/GetCreative.png "Get Creative")
 
 #How can you use Chrome's DevTools inspector to help you format or position elements?
 Chrome's DevTools inspector was brilliant at helping me format and position elements on the webpage. For example, the aspects width, height, position, display, color, background-color, padding and more were all aspects of the elements that we were able to play with to position and format elements. It took some getting used to, but after a while my partner and I figured things out quickly and increasingly each time. 
