@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 ![Alt text](site-map.png "My Site Map")
 
 #What are the 6 Phases of Web Design?
@@ -11,6 +13,7 @@ The six phases of web design are as follows:
 6. Maintenance
 =======
 
+>>>>>>> master
 ![Alt text](/Users/MaeveTierney/phase-0/week-2/imgs/site-map.png "My Site Map")
 
 #What are the 6 Phases of Web Design?
@@ -21,7 +24,10 @@ The six phases of web design are as follows:
 4.Development
 5.Testing and Delivery
 6.Maintenance
+<<<<<<< HEAD
+=======
 >>>>>>> maeve
+>>>>>>> master
 
 #What is your site's primary goal or purpose?
 People who come to my site will be looking to find content about me perhaps because they are trying to hire me for a job. The site will be a way that people in tech can see that I know how to create a user friendly website that also conveys information about me and my work to visitors. My site's purpose is to get me hired and noticed.
@@ -44,6 +50,9 @@ User Experience design is important because it is centered around the user and t
 #Which parts of the challenge did you find tedious?
 I found trying to understand the difference in the evolution of user experience design tedious, because i don't really understand how designers never really thought about the user and their feelings towards a system before, it is very important for success!
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 
 =======
 >>>>>>> maeve
+>>>>>>> master
