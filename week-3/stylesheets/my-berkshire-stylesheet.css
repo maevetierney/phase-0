@@ -1,0 +1,82 @@
+html {
+  background-color: #ffffff;
+}
+
+.text { 
+  color: #000080;
+}
+
+div ul li a { 
+color: #800080;
+}
+
+a:visited { 
+color: #ff0000
+}
+
+.first-col  {
+  padding-left: 10%;
+  float: left;
+}
+
+.second-col  {
+  padding-left: 60%;
+  padding-right: 10%;
+}
+
+div ul li {
+  font-size: .8em;
+  }
+
+header {
+  font-weight: bold;
+  text-align: center;
+  } 
+  
+header h1 {
+  font-size: 2em;
+  }
+header h4 { 
+font-size: 1em;
+}
+
+header h3 {
+  font-size: 1.5em;
+}
+
+header h1 span {
+  font-size: 3em;
+}
+
+#gieco  {
+  text-align: center;
+  text-size: .8em;
+}
+
+.border  {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.border2  {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+/* Reflection:
+
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+-When linking an external file like a style sheet to an HTML file you need to place the link in between the <header></header> section of the <html> file. The format is as follows: <link type="text/css" rel="stylesheet" href="stylesheet.css"/>. The type attribute always should be equal to text/css. The rel should always be stylesheet. And the href should point to the web address of your CSS file.  ;
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+-To help with positioning the elements on the web page, it was helpful to organize the groups of the elements in divs in HTML(Section)and in classes in terms of CSS(also like sections). It wasn't that hard! Divs and classes make it so you can organize elements and if you play with them and see how they look, you can figure it out with trial and error. It was a bit challenging, probably the most challenging part of the CSS challenge, but if you properly label the DIV;s and classes it works. 
+
+What CSS did you use to modify the element style (like size, color, etc.)
+-To modify the elemnt styles we used various CSS techniques. The cascading concept was vital to understanding how to organize the CSS. If you use a selector and assign it a property: value you can choose many attributes of the element, like color, size and font-family. selector {property: value} is the format. ;
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+-Yes, we used classes and ID's in our HTML modification of the Berkshire-Hathaway file. We used these elements because they are extremely helpful in making your CSS stylesheet efficent and organized. Instead of writing out the same CSS attributes for a lot of elements, you can group the same kinds in classes, and individual special ones in ID's. It would have been much harder to write the CSS alongside the HTML without classes and ID's. 
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+-It was interesting, because when I looked at the actual site's code base the code used <hr> like I did in my original version, instead of borders around the block groupings of certain Div's, which is what we modified in our code during this challenge as directed. I don't really know which is cleaner, because I don't know that much about what is the best practice of code yet. But honestly, hr is way easier than grouping a ton of divs and writing out border sizes and stuff. But I guess for practicing our CSS and HTML styling we played with border attributes during this challenge. 
+
+*/
