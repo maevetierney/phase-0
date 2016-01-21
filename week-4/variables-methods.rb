@@ -30,4 +30,7 @@ How do you run an RSpec file from the command line?
 		You type: rspec filename.rb 
 What was confusing about this material? What made sense?
 	This material wasn't to too hard. The actual ruby stuff was basic, but the formatting in the my_solution files and the rspec were what was tricky about this challenge. I didn't really know where to put my code and that gave me lots of error messages. 
+
+	link to address: https://github.com/maevetierney/phase-0/blob/master/week-4/address/my_solution.rb
+	link to math methods: https://github.com/maevetierney/phase-0/blob/master/week-4/math/my_solution.rb
 =end
