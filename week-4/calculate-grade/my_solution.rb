@@ -27,4 +27,9 @@ end
 # I worked on this challenge [by myself, with: FJ Collins ].
 
 
+# Link to Triangle Side Lengths Challenge: https://github.com/maevetierney/phase-0/tree/master/week-4/9-triangle-side
+# Link to Good Guess:
+# Link to Detecting Leap Years:
+# Link to Detecting Simple Substrings:  
+
 # Your Solution Below
