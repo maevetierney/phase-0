@@ -7,20 +7,16 @@
 
 def leap_year?(year)
 	if 
-		(year) / 4.to_i/ 100.to_i
+		year % 400==0
 		return true
 	end 
 	if 
-		(year)/ 400.to_i
-		return true
-	end 
-	if 
-		year / 100.to_f
-
-		retirm
-	end
-	if 
-		(year)/ 4.to_i/ 400.to_i
-		return false
+		year % 100 == 0
+		return false 
+	elsif 
+		year % 4 == 0 
+		return true 
+	else 
+		return false 
 	end 
 end 
