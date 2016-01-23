@@ -28,7 +28,7 @@ end
 
 
 # Link to Triangle Side Lengths Challenge: https://github.com/maevetierney/phase-0/tree/master/week-4/9-triangle-side
-# Link to Good Guess:
+# Link to Good Guess: https://github.com/maevetierney/phase-0/tree/master/week-4/good-guess
 # Link to Detecting Leap Years:
 # Link to Detecting Simple Substrings:  
 
