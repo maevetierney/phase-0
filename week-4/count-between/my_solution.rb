@@ -15,8 +15,21 @@
 
 # Your Solution Below
 
-def count_between(list_of_integers, lower_bound, upper_bound)
-	Range.new = list_of_integers
-	Range.begin == lower_bound.to_i
-	Range.end== upper_bound.to_i
+def count_between (list_of_integers, lower_bound, upper_bound)
+  range = (lower_bound..upper_bound).to_a
+  lower_bound.to_i
+  upper_bound.to_i
+  if 
+  	lower_bound > upper_bound
+  end 
+  if 
+  	list_of_integers.length == 0 
+  	return 0
+  end 
+  if 
+  	lower_bound == upper_bound
+  	return list_of_integers.length 
+  else     
+  list_of_integers.select {|integer| range.include?(integer)}.length
+end 
 end
