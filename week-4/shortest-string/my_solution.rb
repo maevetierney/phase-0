@@ -16,8 +16,19 @@
 #Your Solution Below
 
 def shortest_string(list_of_words)
-	Array list_of_words
-		list_of_words.min_by {|lang| lang.size}
+	i = list_of_words[0]
+	list_of_words.each do |string|
+		if string.length < i.length
+			i = string
+		end  
+	end 
+	i 
 end 
 
+=begin
+	
+questions i had on this one:
+ => - why dont you put return i at the end 
+ -why do you not include else statement with an empty list_of_words to return to nil. 
+end
 

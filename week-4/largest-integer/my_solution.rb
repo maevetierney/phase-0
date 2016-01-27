@@ -11,16 +11,16 @@
 # If +list_of_nums+ is empty the method should return nil
 
 # Your Solution Below
+
+
 def largest_integer(list_of_nums)
-  	list_of_nums==[0]
-	if 
-		list_of_nums == []
-		return nil
-	end 
-	if 
-		list_of_nums == [0]
-		return 0
-	else 
-		return list_of_nums.max 
-	end 
-end
+	i = list_of_nums[0]
+	list_of_nums.each do |num|
+		if 
+			num > i 
+			i = num
+		end 
+	end
+	i 
+end 
+
