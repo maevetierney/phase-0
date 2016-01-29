@@ -16,19 +16,21 @@
 # Your Solution Below
 
 def smallest_integer(list_of_nums)
-	i = list_of_nums[0]
-	smallest_integer.each do |number|
-		i < 1
-	return number 
-	if 
-		list_of_nums[ ]
-		return nil
-		end 
-	end  
+	smallest_integer = list_of_nums[0]
+	if list_of_nums== nil
+		return nil 
+	end 
+	list_of_nums.each do |nums|
+		if nums < smallest_integer 
+		   smallest_integer = nums 
+		end
+	end 
+	smallest_integer 
 end
 
-=begin
+
 #Code I turned in, original code(above is the new code i made using iteration)
+=begin
 def smallest_integer(list_of_nums)
 	list_of_nums==[0]
 	if 
@@ -42,8 +44,7 @@ def smallest_integer(list_of_nums)
 		return list_of_nums.min 
 	end 
 end 
-	
-=end
+=end 	
 
 # Smallest Integer
 
