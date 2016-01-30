@@ -123,15 +123,15 @@ describe 'PERSON 5: my_array_splitting_method' do
 
 end
 
-# describe 'PERSON 5: my_hash_splitting_method' do
-#   let(:my_family_pets_ages) {{"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, "Annabelle" => 0, "Ditto" => 3}}
+describe 'PERSON 5: my_hash_splitting_method' do
+  let(:my_family_pets_ages) {{"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, "Annabelle" => 0, "Ditto" => 3}}
 
-#   it "splits a hash into nested arrays based on the age of the pet's age" do
-#     expect(my_hash_splitting_method(my_family_pets_ages, 5)).to eq ([[["Hoobie", 3], ["Bogart", 4], ["Poly", 4], ["Annabelle", 0], ["Ditto", 3]], [["Evi", 6], ["George", 12]]])
-#   end
+  it "splits a hash into nested arrays based on the age of the pet's age" do
+    expect(my_hash_splitting_method(my_family_pets_ages, 5)).to eq ([[["Hoobie", 3], ["Bogart", 4], ["Poly", 4], ["Annabelle", 0], ["Ditto", 3]], [["Evi", 6], ["George", 12]]])
+  end
 
-#   it "operates non-destructively" do
-#      expect(my_hash_splitting_method(my_family_pets_ages, 5).object_id).to_not eq(my_family_pets_ages.object_id)
-#   end
+  it "operates non-destructively" do
+     expect(my_hash_splitting_method(my_family_pets_ages, 5).object_id).to_not eq(my_family_pets_ages.object_id)
+  end
 
-# end
+end
