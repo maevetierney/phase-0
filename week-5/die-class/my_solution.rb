@@ -44,15 +44,15 @@
 class Die
 	def initialize(sides)
 		@sides = sides
+		if sides < 1
+	    		raise ArgumentError.new("bad")
+	    end
     end
 
 
 	def sides
 		sides = rand(6)
 		return @sides
-			unless sides >= 1
-	    		raise ArgumentError.new("bad")
-	    	end
   	end
 
   	def roll
