@@ -1,6 +1,5 @@
 # Die Class 2: Arbitrary Symbols
 
-
 # I worked on this challenge [by myself, with: ].
 # I spent [2] hours on this challenge.
 
