@@ -17,7 +17,9 @@ output: a string stating that the athlete won the event
 steps: 
 
 declare win as a function 
-for each object in the array, print the sentence stating the athlet's name and the event they won
+FOR each object in the array, 
+PRINT the sentence stating the athlet's name 
+and the event they won
 
 
 array.win
@@ -80,4 +82,16 @@ console.log(michaelPhelps.name + michaelPhelps.age + michaelPhelps.sport + " " +
 
 
 
-// Reflection
+//* Reflection
+
+// What JavaScript knowledge did you solidify in this challenge? 
+// ====Creating a function, and the syntax that goes along with it. 
+
+// What are constructor functions?
+// ====The value of the function in the code that is a constructor funciton
+// ====owns the object itself. It creates an indeterminate number of new 
+// ====objects with some executable code into the global scope from a function. 
+
+// How are constructors different from Ruby classes (in your research)?
+// ====It is different from a class because in classes the scope is limited, 
+// ====and in these functions there is global scope. 
