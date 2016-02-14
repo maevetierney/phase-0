@@ -66,3 +66,24 @@ assert(
 
 
 // Reflection
+
+// What was it like to approach the problem from the perspective of 
+// JavaScript? Did you approach the problem differently?
+// ==== This was different in that my partner and I were confident we 
+// ==== understood how to iterate over the number to place commas within
+// ==== but we had to play with it for a while because the way the control
+// ==== flow is is very differnet and we had to move things around. 
+//
+// What did you learn about iterating over arrays in JavaScript?
+// ==== Iterating is similar, but actually i feel like harder because 
+// ==== its not like as readable. Its more like a one shot kind of syntax. 
+// 
+// What was different about solving this problem in JavaScript?
+// ==== This was different because of control flow and also because 
+// ==== we were not as confident in iterating and what way to iterate
+// ==== as we were previously with ruby. 
+// 
+// What built-in methods did you find to incorporate in your refactored solution?
+// ==== We could not figure out how to refactor our code any further. I'm 
+// ==== sure a for loop would have worked, but we couldn't get it to work. 
+// ==== so we used a while loop which was great. 
