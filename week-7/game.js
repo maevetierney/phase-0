@@ -32,34 +32,44 @@
 // * 
 
 var harry = {
-	strength: 3,
-	limit: 2,
-	spell: "Stupify!"
+  strength: 3,
+  limit: 2,
+  spell: function stupify(target) {
+    console.log("Stupify!"),
+    target.strength -= 1
+  }
+
 };
 
 var draco = {
-	strength: 2,
-	limit: 2,
-	spell: "Reducto!"
+  strength: 2,
+  limit: 2,
+  spell: function Reducto(target) {
+    console.log("Reducto!"),
+    target.strength -= 3
+  }
 };
 
 var hallway = {limit: 4};
 
 function encounter () {
-	while (hallway.limit(4) == draco.limit(2) + harry.limit(2)) {
-		return "Get out of my way Potter!";
-		return "You don't want to do this Malfoy.";
-	};
+  while (hallway.limit === draco.limit + harry.limit) {
+     console.log("Get out of my way Potter!");
+     console.log("You don't want to do this Malfoy.");
+     hallway.limit -= 1;
+  };
 }
-function fight () {
-	while (harry.stsrength > draco.strength) {
-			return harry.spell;
-			return draco.spell;
-	};
-}
-console.log(encounter)
-console.log(fight)
 
+function fight () {
+  while (harry.strength > draco.strength) {
+      harry.spell(draco);
+      draco.spell(harry);
+      harry.strength -= 1;
+  };
+}
+
+encounter();
+fight();
 
 // Reflection ----------
 
