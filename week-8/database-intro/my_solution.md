@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/maevetierney/phase-0/week-8/databas-intro/Clueless.png alt="Clueless")
+![alt tag](phase-0/week-8/database-intro/Clueless.png "Clueless")
 
 
 1. SELECT state_name FROM states
