@@ -1,4 +1,4 @@
-![Alt text](/phase-0/week-8/database-intro/Clueless.png?raw=true)
+![Alt text](phase-0/week-8/database-intro/Clueless.png?raw=true)
 
 
 1. SELECT state_name FROM states
