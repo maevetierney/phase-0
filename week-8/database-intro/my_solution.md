@@ -1,4 +1,4 @@
-![alt tag](phase-0/week-8/database-intro/Clueless.png "Clueless")
+![Alt text](/phase-0/week-8/database-intro/Clueless.png?raw=true)
 
 
 1. SELECT state_name FROM states
