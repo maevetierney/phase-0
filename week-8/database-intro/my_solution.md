@@ -1,6 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/maevetierney/phase-0/feature-branch/week-8/databas-intro/Clueless.png alt="Clueless")
-
-
+![alt tag](https://raw.githubusercontent.com/maevetierney/phase-0/week-8/databas-intro/Clueless.png alt="Clueless")
 
 
 1. SELECT state_name FROM states
