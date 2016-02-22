@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+![Alt text](https://github.com/maevetierney/phase-0/blob/master/week-8/database-intro/Clueless.png)
+=======
 ![alt tag](https://github.com/maevetierney/phase-0/blob/master/week-8/database-intro/Clueless.png "Clueless")
 
+>>>>>>> master
 
 1. SELECT state_name FROM states
 2. SELECT id FROM states
@@ -39,3 +43,7 @@
 SELECT row
 FROM table;
 And that should give you your results. Make them on separate lines, it helps to visualize. The ; is to end it. 
+<<<<<<< HEAD
+=======
+
+>>>>>>> new
