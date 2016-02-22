@@ -1,4 +1,4 @@
-![alt tag](phase-0/week-8/database-intro/Clueless.png "Clueless")
+![alt tag](https://github.com/maevetierney/phase-0/blob/master/week-8/database-intro/Clueless.png "Clueless")
 
 
 1. SELECT state_name FROM states
@@ -24,3 +24,18 @@
    ...> INNER JOIN states
    ...> ORDER BY region_id ASC;
 
+---------Reflection--------
+1. What are databases for?
+- Databases are for storing large amounts of information that has many categories and attributes that define each fact. 
+
+2. What is a one-to-many relationship?
+- It is a relationship defined by the phrases "____ belongs to a ____. ____ has many ____."
+
+3. What is a primary key? What is a foreign key? How can you determine which is which?
+- A primary key is a field that is attached to the table. A foreign key is one it links to on another table. You can determine which is which based on a schema. 
+
+5. How can you select information out of a SQL database? What are some general guidelines for that?
+- You can select information out of a SQL database by using the command format:
+SELECT row
+FROM table;
+And that should give you your results. Make them on separate lines, it helps to visualize. The ; is to end it. 
