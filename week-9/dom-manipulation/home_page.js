@@ -40,3 +40,17 @@ var tmpl = document.getElementById('hidden');
 document.body.appendChild(tmpl.content.cloneNode(true));
 
 
+// Reflection:------
+
+// What did you learn about the DOM?
+// The Dom is really cool and I would liek to learn
+// more about it. It definitley is the key to 
+// manipulating the intersection of JS to HTML in JS. 
+
+// What are some useful methods to use to manipulate 
+// the DOM?
+// Definitley these:
+// document.getElementById('')
+// document.body.appendChild()
+// document.getElementsByClassName()
+// document.getElementsByTagName()
