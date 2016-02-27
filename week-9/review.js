@@ -101,9 +101,23 @@ print("Bagels")
 // What concepts did you solidify in working on this 
 // challenge? (reviewing the passing of information, 
 // objects, constructors, etc.)
-// -- 
+// This challenge helped me solidify the ideas of manipulating 
+// objects, which I find to be very interesting and fun. 
+// I also got creative with the last part by inserting 
+// a string to the way I print the list, lol.
 
-What was the most difficult part of this challenge?
-Did an array or object make more sense to use and why?
+// What was the most difficult part of this challenge?
+// Definitley the last part, but I did my own little 
+// spin by inserting the string instead of just printing
+// a boring old list. 
+
+// Did an array or object make more sense to use 
+// and why?
+// An object makes sense because you can add an object
+// inside an object, for example if you wanted to add 
+// more categories or attributes/ specifics to the food
+// or item that you want to purchase. Like if you want 
+// to write more things, and access them, an object is more
+// flexible. 
 
 
